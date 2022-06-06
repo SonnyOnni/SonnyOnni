@@ -4,14 +4,14 @@
 - 💞️ I’m looking to interesting projects and my first job like frontend-developer
 - 📫 My email: tsv97@yandex.ru
 
-The most interesting projects on this moment:
+### The most interesting projects on this moment:
 
-HTML&CSS(SASS) 
--Music-box Layout
+#### HTML&CSS(SASS) 
+- Music-box Layout
 https://github.com/SonnyOnni/Layout-Music-box
 
-JS
--Brain games
+#### JS
+- Brain games
 https://github.com/SonnyOnni/Brain-games
 
 <!---
