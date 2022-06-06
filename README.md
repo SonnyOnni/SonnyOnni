@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Svetlana
-- 👀 I’m interested in frontend development
+- 👀 I’m interesting in frontend development
 - 🌱 I’m currently learning HTML, CSS & JS
 - 💞️ I’m looking to interesting projects and my first job like frontend-developer
 - 📫 My email: tsv97@yandex.ru
