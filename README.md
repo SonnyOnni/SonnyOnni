@@ -13,6 +13,8 @@ https://github.com/SonnyOnni/Layout-Music-box
 #### JS
 - Brain games
 https://github.com/SonnyOnni/Brain-games
+- File Difference Calculator
+https://github.com/SonnyOnni/File-Difference-Calculator
 
 <!---
 SonnyOnni/SonnyOnni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
